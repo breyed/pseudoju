@@ -1,3 +1,5 @@
-# AI-generated famous tech person interjection generator.
+# AI-generated famous tech person interjection generator
 
-[Source](https://g.co/gemini/share/cdd54496c099)
+View the website here: https://breyfamily.net/pseudoju/
+
+Source for the code: [AI conversation](https://g.co/gemini/share/cdd54496c099)
